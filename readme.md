@@ -42,3 +42,24 @@ Input:
 solution.solution(3)
 Output:
     71113
+
+## Challange 2
+# Secret messages
+You have to encrypt communication with the bunny resistance using plates numbered form 0 to 9.
+Given a list of integers l, where each element is treated as a digit of a potential number.
+Find the largest possible number divisible by 3 using some or all of the elements in the list.
+
+-- Python Cases --
+Input:
+solution.solution([1,1])
+Output:
+    0
+Input:
+solution.solution([1,4,3])
+Output:
+    3
+Input:
+solution.solution([2,3,5,9,9])
+Output:
+    993
+
