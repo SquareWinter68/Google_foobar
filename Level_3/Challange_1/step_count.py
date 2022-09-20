@@ -21,3 +21,17 @@ def divisible_by_two_n_times(n):
         n = n/2
         ans += 1
     return ans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
